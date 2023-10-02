@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hello Rails React BackEnd </h1>
+  <h1>Hello Rails React FrontEnd </h1>
 </div>
 
 <a name="readme-top"></a>
