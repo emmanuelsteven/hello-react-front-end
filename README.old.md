@@ -32,7 +32,7 @@
 
 > This is a single app with Rails as backend and React as frontend
 ### FrontEnd Repo
- [Link to BackEnd Repo](https://github.com/emmanuelsteven/hello-rails-back-end)
+ [Link to BackEnd Repo](https://github.com/emmanuelsteven/hello-rails-back-end/tree/backEnd)
 
 ## 🛠 Built With <a name="built-with"></a>
 
