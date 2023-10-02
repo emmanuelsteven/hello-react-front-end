@@ -28,7 +28,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello React Rails BackEnd<a name="Random Greeting"></a>
+# 📖 Hello React Rails FrontEnd<a name="Random Greeting"></a>
 
 > This is a single app with Rails as backend and React as frontend
 ### FrontEnd Repo
